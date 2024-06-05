@@ -10,6 +10,15 @@ body {
   justify-content: center;
   height: 100vh;
 }
+.img1{
+
+  color: black;
+  border-radius: 20px;
+  box-shadow: 4px 4px 20px black;
+  font-size: 18px;
+  text-align: center;
+  padding: 10px 22px;
+}
 
 h1:hover {
   transform: scale(1.7);
@@ -34,14 +43,14 @@ img {
 }
 
 .output {
-  background-color: rgb(28, 168, 152);
+
   color: black;
   border-radius: 20px;
   box-shadow: 4px 4px 20px black;
   font-size: 18px;
   text-align: center;
   padding: 10px 22px;
-}
+} 
 
 .mainContainer {
   display: flex;
